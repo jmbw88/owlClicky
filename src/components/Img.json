@@ -1,0 +1,48 @@
+[{
+    "name": "fuel",
+    "url": "./images/fuel.jpg"
+  },
+  {
+    "name": "dynasty",
+    "url": "./images/dynasty.jpg"
+  },
+  {
+    "name": "reign",
+    "url": "./images/reign.jpg"
+  },
+  {
+    "name": "eternal",
+    "url": "./images/eternal.jpg"
+  },
+  {
+    "name": "gladiators",
+    "url": "./images/gladiators.jpg"
+  },
+  {
+    "name": "fusion",
+    "url": "./images/fusion.jpg"
+  },
+  {
+    "name": "spitfire",
+    "url": "./images/spitfire.jpg"
+  },
+  {
+    "name": "hunters",
+    "url": "./images/hunters.jpg"
+  },
+  {
+    "name": "dragons",
+    "url": "./images/dragons.jpg"
+  },
+  {
+    "name": "titans",
+    "url": "./images/titans.jpg"
+  },
+  {
+    "name": "outlaws",
+    "url": "./images/outlaws.jpg"
+  },
+  {
+    "name": "uprising",
+    "url": "./images/uprising.jpg"
+  }]
