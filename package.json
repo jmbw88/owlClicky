@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "homepage": "https://jmbw88.github.io",
     "materialize": "^1.0.0",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.8.4",
@@ -13,9 +12,11 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -25,5 +26,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage": "https://jmbw88.github.io"
 }
