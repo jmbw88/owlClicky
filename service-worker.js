@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/owlClickyDeploy/precache-manifest.a2150c4a2839ddc2ae050879b3373d84.js"
+  "/owlClicky/precache-manifest.7e2be97ec36deb66a5d9e58df80e0ab1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/owlClickyDeploy/index.html", {
+workbox.routing.registerNavigationRoute("/owlClicky/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
